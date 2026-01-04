@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ジレンマ",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-01-04T13:15:44.685218Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジレンマ",
+      "artist": "VENUES",
+      "has_synced": false,
+      "path": "select/01_ジレンマ_VENUES.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジレンマ",
+      "artist": "中村由真",
+      "has_synced": false,
+      "path": "select/02_ジレンマ_中村由真.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジレンマ",
+      "artist": "高橋瞳",
+      "has_synced": false,
+      "path": "select/03_ジレンマ_高橋瞳.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジレンマ(album ver.)",
+      "artist": "ecosystem",
+      "has_synced": false,
+      "path": "select/04_ジレンマ(album_ver.)_ecosystem.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ジレンマ",
+      "artist": "ecosystem",
+      "has_synced": false,
+      "path": "select/05_ジレンマ_ecosystem.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ジレンマ (Bonus Track)",
+      "artist": "Tomoko Aran",
+      "has_synced": true,
+      "path": "select/06_ジレンマ_(Bonus_Track)_Tomoko_Aran.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ジレンマ",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/07_ジレンマ_PornoGraffitti.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ジレンマ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/08_ジレンマ_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ジレンマ",
+      "artist": "富田美憂",
+      "has_synced": true,
+      "path": "select/09_ジレンマ_富田美憂.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ジレンマ",
+      "artist": "YuNi",
+      "has_synced": true,
+      "path": "select/10_ジレンマ_YuNi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ジレンマ(album ver.) - Dilemma",
+      "artist": "Ecosystem",
+      "has_synced": false,
+      "path": "select/11_ジレンマ(album_ver.)_-_Dilemma_Ecosystem.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ジレンマ",
+      "artist": "Yuma Nakamura",
+      "has_synced": false,
+      "path": "select/12_ジレンマ_Yuma_Nakamura.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ジレンマ",
+      "artist": "YuNi",
+      "has_synced": true,
+      "path": "select/13_ジレンマ_YuNi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジレンマ",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_ジレンマ_DECO_27.txt"
+    }
+  ]
+}
